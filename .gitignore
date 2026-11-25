@@ -1,0 +1,6 @@
+.env
+assistant.log
+__pycache__/
+*.pyc
+local-archives/
+.env.*
